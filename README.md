@@ -174,7 +174,7 @@
 
 
 
-# !\[Nassau Candy Distributor Streamlit Dashboard](images/dashboard\_screenshot.png)
+# ![Nassau Candy Distributor Streamlit Dashboard](images/dashboard_screenshot.png)
 
 
 
