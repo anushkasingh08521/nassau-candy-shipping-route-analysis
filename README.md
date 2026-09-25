@@ -172,7 +172,11 @@
 
 # \## 📈 Dashboard
 
-# 
+
+
+# !\[Nassau Candy Distributor Streamlit Dashboard](images/dashboard\_screenshot.png)
+
+
 
 # The Streamlit dashboard contains four main sections:
 
