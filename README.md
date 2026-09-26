@@ -116,7 +116,7 @@ The dashboard provides interactive filters for:
 
 ### Dashboard Preview
 
-![Nassau Candy Distributor Streamlit Dashboard](images/Screenshot%202026-09-26%20003731.png)
+![Nassau Candy Streamlit Dashboard](images/dashboard_screenshot.png)
 
 ## 🛠️ Technologies Used
 
