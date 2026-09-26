@@ -128,6 +128,9 @@ The dashboard provides interactive filters for:
 - Jupyter Notebook
 - GitHub
 
+### Executive Summary
+[View Executive Summary (PDF)](executive_summary.pdf)
+
 ## 📁 Project Structure
 
 ```text
@@ -141,5 +144,4 @@ Nassau-Candy-Shipping-Route-Analysis/
 └── images/
     └── dashboard_screenshot.png
 
-### Executive Summary
-[View Executive Summary (PDF)](executive_summary.pdf)
+
