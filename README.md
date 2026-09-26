@@ -140,3 +140,6 @@ Nassau-Candy-Shipping-Route-Analysis/
 ├── .gitignore
 └── images/
     └── dashboard_screenshot.png
+
+### Executive Summary
+[View Executive Summary (PDF)](executive_summary.pdf)
